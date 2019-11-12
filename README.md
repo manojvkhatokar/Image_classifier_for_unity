@@ -1,4 +1,5 @@
 NOTE= This repo does not contain the dataset . download the dataset from this link 
+[dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
 
 # AI Programming with Python Project. Image classification (102 flower categories) using Pytorch models.
 
