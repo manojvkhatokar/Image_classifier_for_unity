@@ -1,5 +1,5 @@
 NOTE= This repo does not contain the dataset . download the dataset from this link 
-[dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
+[dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)After downloading the dataset rename the parent folder that contains ("train","test","valid") folders as "flowers" and copy this "flowers" folder to the working directory of your flask_app.py file.
 
 # AI Programming with Python Project. Image classification (102 flower categories) using Pytorch models.
 
